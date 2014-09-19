@@ -1,0 +1,11 @@
+# Get the following keys from https://apps.twitter.com
+consumer_key = ''
+consumer_secret = ''
+access_token_key = ''
+access_token_secret = ''
+
+# Whitelisted users (optional)
+whitelist = []
+
+# E-mail to received report (optional)
+mailto = None
